@@ -1,4 +1,4 @@
-# Bienvenido al Repositorio del Movimiento Juvenil Salesiano_MME
+# Bienvenido al Repositorio del Movimiento Juvenil Salesiano MME
 
 Aqui encontraras los archivos de la [Escuela de Animadores](https://mjsmme.gnomio.com/)
 
@@ -8,6 +8,13 @@ Aqui encontraras los archivos de la [Escuela de Animadores](https://mjsmme.gnomi
 2. ¿Qué es la persona? ¿Quién es el joven? Cristo vive
 3. Animación ¿qué y para qué?
 4. El animador, líder como Jesús. PPV
+
+## Módulo 5: Metodología Catequística
+
+1. [Psicología de los niños y adolescentes] (Files/5.1 Psicología y dimensión religiosa niños-adolescentes.pdf)
+2. Pedagogía Divina
+3. Metodología Catequística
+4. Elaboración de un tema y darlo
 
 ## Welcome to GitHub Pages
 
