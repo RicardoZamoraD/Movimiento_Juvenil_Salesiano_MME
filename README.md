@@ -11,7 +11,7 @@ Aqui encontraras los archivos de la [Escuela de Animadores](https://mjsmme.gnomi
 
 ## Módulo 5: Metodología Catequística
 
-1. [Psicología de los niños y adolescentes] (Files/5.1 Psicología y dimensión religiosa niños-adolescentes.pdf)
+1. [Psicología de los niños y adolescentes](https://github.com/RicardoZamoraD/Movimiento_Juvenil_Salesiano_MME/blob/main/Files/5.1%20Psicolog%C3%ADa%20y%20dimensi%C3%B3n%20religiosa%20ni%C3%B1os-adolescentes.pdf)
 2. Pedagogía Divina
 3. Metodología Catequística
 4. Elaboración de un tema y darlo
