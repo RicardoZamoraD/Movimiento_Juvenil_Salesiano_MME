@@ -13,7 +13,7 @@ Aqui encontraras los archivos de la [Escuela de Animadores](https://mjsmme.gnomi
 
 1. [Psicología de los niños y adolescentes](https://github.com/RicardoZamoraD/Movimiento_Juvenil_Salesiano_MME/blob/main/Files/5.1%20Psicolog%C3%ADa%20y%20dimensi%C3%B3n%20religiosa%20ni%C3%B1os-adolescentes.pdf)
 2. [Pedagogía Divina](https://github.com/RicardoZamoraD/Movimiento_Juvenil_Salesiano_MME/blob/main/Files/5.2%20Pedagogia%20divina.pdf)
-3. Metodología Catequística
+3. [Metodología Catequística](https://github.com/RicardoZamoraD/Movimiento_Juvenil_Salesiano_MME/blob/main/Files/5.3%20metodolog%C3%ACa%20catequistica.pdf)
 4. Elaboración de un tema y darlo
 
 ## Welcome to GitHub Pages
